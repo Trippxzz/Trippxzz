@@ -1,6 +1,7 @@
 ### Estadisticas🥱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trippxzz&show_icons=true&theme=dark)
+---
 
 ### Learning🥱
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
